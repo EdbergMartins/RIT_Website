@@ -7,6 +7,7 @@
   padding: 5px 15px 5px 0;
   align-items: center;
   font-weight: bold;
+  margin:auto;
 }
 
 .top-container p {
@@ -22,6 +23,7 @@
   width: 924px;
   margin-left: 40px;
   box-shadow: 0 0 15px #a9a9a9;
+  margin:auto;
 }
 
 header #top-bar {
